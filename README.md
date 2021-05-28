@@ -1,8 +1,6 @@
-# DYSEN - LDK2021
+#  A Review and Cluster Analysis of German Polarity Resources for Sentiment Analysis - LDK2021
 
-A review and cluster analysis of German polarity resources for sentiment analysis
-
-This repository accompanies the LDK 2021 submission 'A review and cluster analysis of German polarity resources for sentiment analysis'.
+This repository accompanies the LDK 2021 submission 'A review and cluster analysis of German polarity resources for sentiment analysis' which was created in the framework of the DYSEN project (https://www.oeaw.ac.at/acdh/projects/dysen/), a cooperation between the University of Vienna, TU Wien and the Austrian Academy of Sciences (OEAW).
 
 If you make use of the code or other outputs from this research, please make sure to cite it accordingly: [PLACEHOLDER CITATION].
 
